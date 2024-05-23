@@ -1,0 +1,3 @@
+Key.space
+Key.ctrl
+'c'
